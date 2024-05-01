@@ -1,0 +1,16 @@
+#include <stdio.h>
+
+int main(){
+
+    printf("hello world");
+    return 0;
+}
+// this is a command
+
+/*
+this
+is
+also
+a
+command
+*/
